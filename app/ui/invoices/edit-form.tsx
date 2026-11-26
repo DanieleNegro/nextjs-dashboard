@@ -1,6 +1,6 @@
 'use client';
 
-import { State, updateInvoice } from '@/app/lib/action';
+import { State, updateInvoice } from '@/app/lib/actions';
 import { CustomerField, InvoiceForm } from '@/app/lib/definitions';
 import { Button } from '@/app/ui/button';
 import {
